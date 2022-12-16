@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marcela-torres-diniz-2abb15207/)
 
-![Fernanda Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=diniz736nanda&show_icons=true&theme=highcontrast)
+![Fernanda Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=diniz736nanda&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniz736nanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
