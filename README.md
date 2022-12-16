@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Fernanda Diniz! 🖐️
 - Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC.
+- 📫 Contate-me no email: dinizfernanda736@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marcela-torres-diniz-2abb15207/)
 
