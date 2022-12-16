@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou a Fernanda Diniz! 🖐️
+- Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC.
 
-<!--
-**diniz736nanda/diniz736nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marcela-torres-diniz-2abb15207/)
 
-Here are some ideas to get you started:
+![Fernanda Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=diniz736nanda&show_icons=true&theme=highcontrast)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniz736nanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias que uso no meu dia
+
+<div>
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</div>
