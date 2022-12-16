@@ -2,10 +2,7 @@
 - Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC.
 - 📫 Contate-me no email: dinizfernanda736@gmail.com
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marcela-torres-diniz-2abb15207/)
-
 ![Fernanda Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=diniz736nanda&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniz736nanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
@@ -17,3 +14,6 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
+
+### Minha Rede
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-marcela-torres-diniz-2abb15207/)
