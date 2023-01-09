@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Fernanda Diniz! 🖐️
+- Sou formada em Análise e Desenvolvimento de Sistemas
 - Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC.
 - 📫 Contate-me no email: dinizfernanda736@gmail.com
 
