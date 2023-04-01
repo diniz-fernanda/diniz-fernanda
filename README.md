@@ -3,8 +3,8 @@
 - Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC.
 - 📫 Contate-me no email: dinizfernanda736@gmail.com
 
-![Fernanda Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=diniz736nanda&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniz736nanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Fernanda Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=diniz-fernanda&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniz-fernanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
