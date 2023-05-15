@@ -1,11 +1,11 @@
 ### Olá! Eu sou a Fernanda Diniz! 🖐️
 - Sou formada em Análise e Desenvolvimento de Sistemas
-- Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC.
+- Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC e Angular
 - 📫 Contate-me no email: dinizfernanda736@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniz-fernanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia a dia
 
 <div>
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
