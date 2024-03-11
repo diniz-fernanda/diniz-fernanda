@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Fernanda Diniz! 🖐️
 - Sou formada em Análise e Desenvolvimento de Sistemas
-- Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC e Angular
-- 📫 Contate-me no email: dinizfernanda736@gmail.com
+- Estou aprofundando os meus conhecimentos em Desenvolvimento Web utilizando o C#, .NET, MVC e API Restful
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diniz-fernanda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
